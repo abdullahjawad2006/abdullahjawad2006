@@ -83,10 +83,10 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### 🐍 Programming & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c" height="48" />
+<img src="https://skillicons.dev/icons?i=python" height="48" />
 </p>
 
-**Python • C • NumPy • Pandas • Matplotlib • Seaborn**
+**Python • NumPy • Pandas • Matplotlib • Seaborn**
 
 ---
 
@@ -113,9 +113,7 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### ✨ Generative AI & LLM Engineering
 
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=langchain" height="48" />
 </p>
 
 **LLMs • RAG • LangChain • LangGraph • Prompt Engineering • Chatbot Development • Fine-Tuning • PEFT • QLoRA • LLaMA**
@@ -172,7 +170,11 @@ Build **automated web data collection pipelines** using scraping and browser aut
 
 ### ☁️ Engineering & Deployment
 
-**MLOps • CI/CD • AI Deployment**
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,azure,docker" height="48" />
+</p>
+
+**Google Cloud • Microsoft Azure • Docker • MLOps • CI/CD • AI Deployment**
 
 ---
 
