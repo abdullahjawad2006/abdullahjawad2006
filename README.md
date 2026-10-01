@@ -10,71 +10,57 @@ I design and develop **AI-driven applications and data solutions** that transfor
 
 ### 📄 AI-Powered Document Processing
 
-**Problem**
-Manual data entry from invoices, forms, PDFs, and other business documents is time-consuming and prone to errors.
+**Problem:** Manual data entry from invoices, forms, PDFs, and other business documents is time-consuming and prone to errors.
 
-**Solution**
-Build **AI-powered document processing systems** that extract, structure, and organize information automatically for downstream workflows and analysis.
+**Solution:** Build **AI-powered document processing systems** that extract, structure, and organize information automatically for downstream workflows and analysis.
 
 ---
 
 ### ⚙️ AI Workflow Automation
 
-**Problem**
-Repetitive administrative workflows require significant manual effort and consume valuable working hours.
+**Problem:** Repetitive administrative workflows require significant manual effort and consume valuable working hours.
 
-**Solution**
-Build **AI-powered automation workflows** that streamline repetitive processes, reduce manual intervention, and improve operational efficiency.
+**Solution:** Build **AI-powered automation workflows** that streamline repetitive processes, reduce manual intervention, and improve operational efficiency.
 
 ---
 
 ### 💬 LLM-Powered Applications
 
-**Problem**
-Customers and employees often spend time searching through information or waiting for answers to routine questions.
+**Problem:** Customers and employees often spend time searching through information or waiting for answers to routine questions.
 
-**Solution**
-Build **LLM-powered chatbots and AI assistants** that can interact with business information and provide relevant, context-aware responses.
+**Solution:** Build **LLM-powered chatbots and AI assistants** that can interact with business information and provide relevant, context-aware responses.
 
 ---
 
 ### 🔎 RAG & Knowledge Systems
 
-**Problem**
-Important organizational knowledge is often scattered across PDFs, documents, FAQs, and internal resources.
+**Problem:** Important organizational knowledge is often scattered across PDFs, documents, FAQs, and internal resources.
 
-**Solution**
-Build **Retrieval-Augmented Generation (RAG) systems** that connect LLMs with organizational knowledge to provide searchable and source-grounded answers.
+**Solution:** Build **Retrieval-Augmented Generation (RAG) systems** that connect LLMs with organizational knowledge to provide searchable and source-grounded answers.
 
 ---
 
 ### 📊 Data Analysis & Visualization
 
-**Problem**
-Raw datasets can contain valuable patterns and trends that are difficult to identify without structured analysis.
+**Problem:** Raw datasets can contain valuable patterns and trends that are difficult to identify without structured analysis.
 
-**Solution**
-Build **data analysis and visualization solutions** that transform raw data into meaningful patterns, trends, and actionable insights.
+**Solution:** Build **data analysis and visualization solutions** that transform raw data into meaningful patterns, trends, and actionable insights.
 
 ---
 
 ### 📈 Machine Learning Solutions
 
-**Problem**
-Organizations may have historical data but lack predictive systems to support data-driven decision-making.
+**Problem:** Organizations may have historical data but lack predictive systems to support data-driven decision-making.
 
-**Solution**
-Develop **machine learning models** for classification, regression, clustering, forecasting, and analytical use cases such as churn, demand, and sales analysis.
+**Solution:** Develop **machine learning models** for classification, regression, clustering, forecasting, and analytical use cases such as churn, demand, and sales analysis.
 
 ---
 
 ### 🌐 Web Scraping & Data Collection
 
-**Problem**
-Collecting market, competitor, pricing, and product information manually is slow and difficult to scale.
+**Problem:** Collecting market, competitor, pricing, and product information manually is slow and difficult to scale.
 
-**Solution**
-Build **automated web data collection pipelines** using scraping and browser automation to collect, structure, and prepare data for analysis.
+**Solution:** Build **automated web data collection pipelines** using scraping and browser automation to collect, structure, and prepare data for analysis.
 
 ---
 
@@ -90,17 +76,21 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
 </p>
 
-**Python • C • NumPy • Pandas • Matplotlib • Seaborn**
-
 ---
 
 ### 🤖 Machine Learning & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistics-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-0891B2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Feature_Engineering-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Classification-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Regression-059669?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Clustering-DB2777?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ensemble_Learning-D97706?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistical_Data_Analysis-475569?style=for-the-badge&logoColor=white" />
 </p>
-
-**Scikit-learn • Statistics • Exploratory Data Analysis • Feature Engineering • Classification • Regression • Clustering • Ensemble Learning • Statistical Data Analysis**
 
 ---
 
@@ -110,9 +100,16 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Neural_Networks-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CNN-0891B2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RNN-059669?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LSTM-DB2777?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/GRU-D97706?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/GANs-DC2626?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/VAEs-4F46E5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge&logoColor=white" />
 </p>
-
-**TensorFlow • Keras • PyTorch • Transformers • Neural Networks • CNN • RNN • LSTM • GRU • GANs • VAEs • NLP**
 
 ---
 
@@ -131,8 +128,6 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <img src="https://img.shields.io/badge/LLaMA-2563EB?style=for-the-badge&logoColor=white" />
 </p>
 
-**LLMs • RAG • LangChain • LangGraph • Prompt Engineering • Chatbot Development • Fine-Tuning • PEFT • QLoRA • LLaMA**
-
 ---
 
 ### 🤖 AI Development Tools
@@ -144,8 +139,6 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <img src="https://img.shields.io/badge/Google_Anti_Gravity-4285F4?style=for-the-badge&logoColor=white" />
 </p>
 
-**Claude Code • ChatGPT Codex • Google Gemini • Google Anti Gravity • AI-Assisted Development**
-
 ---
 
 ### 🚀 APIs & Application Development
@@ -156,8 +149,6 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logoColor=white" />
 </p>
 
-**FastAPI • Flask • Streamlit**
-
 ---
 
 ### 🌐 Web Scraping & Automation
@@ -165,9 +156,9 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <p>
 <img src="https://img.shields.io/badge/BeautifulSoup-4B5563?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Scraping-0EA5E9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Browser_Automation-16A34A?style=for-the-badge&logoColor=white" />
 </p>
-
-**BeautifulSoup • Selenium • Web Scraping • Browser Automation**
 
 ---
 
@@ -178,8 +169,6 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" />
 </p>
-
-**Git • GitHub • VS Code**
 
 ---
 
@@ -194,8 +183,6 @@ Build **automated web data collection pipelines** using scraping and browser aut
 <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Deployment-DC2626?style=for-the-badge&logoColor=white" />
 </p>
-
-**MLOps • CI/CD • AI Deployment**
 
 ---
 
