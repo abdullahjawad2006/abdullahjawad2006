@@ -83,21 +83,21 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### 🐍 Programming & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib" height="48" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
 </p>
 
-**Python • NumPy • Pandas • Matplotlib • Seaborn**
-
-<p>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+**Python • C • NumPy • Pandas • Matplotlib • Seaborn**
 
 ---
 
 ### 🤖 Machine Learning & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn" height="48" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logoColor=white" />
 </p>
 
 **Scikit-learn • Statistics • Exploratory Data Analysis • Feature Engineering • Classification • Regression • Clustering • Ensemble Learning • Statistical Data Analysis**
@@ -107,7 +107,9 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### 🧠 Deep Learning & NLP
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch" height="48" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white" />
 </p>
 
 **TensorFlow • Keras • PyTorch • Transformers • Neural Networks • CNN • RNN • LSTM • GRU • GANs • VAEs • NLP**
@@ -117,10 +119,16 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### ✨ Generative AI & LLM Engineering
 
 <p>
-<img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Chatbot_Development-0EA5E9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Fine--Tuning-DC2626?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PEFT-F59E0B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/QLoRA-16A34A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA-2563EB?style=for-the-badge&logoColor=white" />
 </p>
 
 **LLMs • RAG • LangChain • LangGraph • Prompt Engineering • Chatbot Development • Fine-Tuning • PEFT • QLoRA • LLaMA**
@@ -130,20 +138,22 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### 🤖 AI Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT_Codex-412991?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Anti_Gravity-4285F4?style=for-the-badge&logoColor=white" />
 </p>
 
-**Claude Code • OpenAI Codex • Google Gemini • AI-Assisted Development**
+**Claude Code • ChatGPT Codex • Google Gemini • Google Anti Gravity • AI-Assisted Development**
 
 ---
 
 ### 🚀 APIs & Application Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" height="48" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logoColor=white" />
 </p>
 
 **FastAPI • Flask • Streamlit**
@@ -153,8 +163,8 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### 🌐 Web Scraping & Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium" height="48" />
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-4B5563?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logoColor=white" />
 </p>
 
 **BeautifulSoup • Selenium • Web Scraping • Browser Automation**
@@ -164,20 +174,28 @@ Build **automated web data collection pipelines** using scraping and browser aut
 ### 🔧 Development & Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" />
 </p>
 
 **Git • GitHub • VS Code**
 
 ---
 
-### ☁️ Cloud, Engineering & Deployment
+### ☁️ Engineering & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=googlecloud,aws,azure,docker" height="48" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-6B7280?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Deployment-DC2626?style=for-the-badge&logoColor=white" />
 </p>
 
-**Google Cloud • AWS • Microsoft Azure • Docker • MLOps • CI/CD • AI Deployment**
+**MLOps • CI/CD • AI Deployment**
 
 ---
 
